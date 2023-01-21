@@ -1,0 +1,23 @@
+a {
+    color:rgba(112, 184, 247, 0.67)
+}
+em {
+    color: rgb(58, 157, 244);
+    font-style: normal;
+}
+.content{
+    margin: 20px;
+}
+.header{
+    margin: 10px;
+    font-size: 25px;
+}
+.content-header{
+    margin: 10px;
+}
+#page-contents {
+    height: fit-content;
+    width: fit-content;
+    border: 1px solid grey;
+    padding: 15px;
+}
